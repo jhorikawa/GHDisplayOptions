@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GHDisplayOptions", "GHDisplayOptions\GHDisplayOptions.csproj", "{AA04198C-973E-4B9B-8F22-79401925B680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA04198C-973E-4B9B-8F22-79401925B680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA04198C-973E-4B9B-8F22-79401925B680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA04198C-973E-4B9B-8F22-79401925B680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA04198C-973E-4B9B-8F22-79401925B680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E055DC1B-9865-4752-8503-76F11D58536F}
+	EndGlobalSection
+EndGlobal
